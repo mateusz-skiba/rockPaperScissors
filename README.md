@@ -1,9 +1,6 @@
 # rockPaperScissors
-
-Easy game "Rock, paper, scissors" create in JavaScript
-
-# Project Name
-> Here goes your awesome project description!
+#### link tutaj muj
+> Lorem ipsum dolor sit amet i wlglsdadawdafsfsdfsdfsd
 
 ## Table of contents
 * [General info](#general-info)
