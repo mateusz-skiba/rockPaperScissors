@@ -8,9 +8,10 @@ Link: https://mateusz-skiba.github.io/rockPaperScissors/
 * JavaScript
 
 ## Features
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Choice of your attack
+* Draw an opponent's attack
+* Check who win
+* Simple scoreboard
 
 ## Contact
 
