@@ -11,10 +11,5 @@
 * Awesome feature 2
 * Awesome feature 3
 
-
-
-
-
-
-Author: mateusz-skiba.pl
-##### Link: dasdasdasdadadasdas.dsadas
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
