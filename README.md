@@ -1,10 +1,11 @@
 # rockPaperScissors
-> Lorem ipsum dolor sit amet i wlglsdadawdafsfsdfsdfsd
+> Easy and very popular game of chance in which you choose one of the three options and check who won - you or your opponent.
+https://mateusz-skiba.github.io/rockPaperScissors/
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* CSS
+* SASS
+* JavaScript
 
 ## Features
 * Awesome feature 1
