@@ -12,4 +12,5 @@
 * Awesome feature 3
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Author: [Mateusz Skiba](https://mateusz-skiba.pl/)
+Email: mateusz.skiba14@gmail.com - feel free to contact me!
