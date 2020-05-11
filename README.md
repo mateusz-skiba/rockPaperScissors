@@ -1,5 +1,6 @@
 # rockPaperScissors
 > Easy and very popular game of chance in which you choose one of the three options and check who won - you or your opponent.
+
 Link: https://mateusz-skiba.github.io/rockPaperScissors/
 
 ## Technologies
